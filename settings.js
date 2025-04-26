@@ -8,26 +8,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: PrexzyVilla" //ur yt chanel name
-global.socialm = "IG : prexzy.ay" //ur github or insta name
-global.location = "Nigeria" //ur location
+global.ytname = "YT: fang7x" //ur yt chanel name
+global.socialm = "IG : fang7x" //ur github or insta name
+global.location = "MOROCCO" //ur location
 
 //new
 global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '16582044119' //ur owner number
-global.ownername = '©Precious Ayomide' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
-global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.ownernumber = '212637915359' //ur owner number
+global.ownername = '© Jawad' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029VbAD3GrIHphJRlJzqG2j" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.wagc = "https://chat.whatsapp.com/0029VbAD3GrIHphJRlJzqG2j" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.idch = '120363322892680943@newsletter'
-global.themeemoji = '🪀'
+global.themeemoji = '👾'
 global.wm = "NYX👸"
-global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
+global.botscript = 'https://whatsapp.com/channel/0029VbAD3GrIHphJRlJzqG2j' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
 global.packname = "Queen Nyx👸"
-global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.author = "Jawad"
+global.creator = "212637915359@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["212688204456"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
